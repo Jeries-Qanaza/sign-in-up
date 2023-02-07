@@ -1,0 +1,26 @@
+body
+{
+    background-image: linear-gradient(to left,blue,cyan ,black);
+}
+
+#form
+{
+    padding-top: 5%;
+    height:500px;
+    width: 500px;
+    background-image: linear-gradient(to top,blue,black);
+    border-radius: 50px;
+    display:grid;
+}
+
+input
+{
+    width: 100px;
+    margin: 10px;
+}
+
+.txt
+{
+    color: white;
+    display: inline;
+}
